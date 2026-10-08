@@ -2,7 +2,7 @@
 **University:** University of Pisa  
 **Degree:** M.Sc. in Data Science & Business Informatics  
 **Course:** Data Mining 2 — Advanced Data Mining  
-**Academic year:** 2024–2025
+**Academic year:** 2025-2026
 
 ---
 
